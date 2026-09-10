@@ -22,7 +22,7 @@ const PROJECTS = [
     description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design and testing of semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects.",
     tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
     link: "https://github.com/mjkim21-dev/content/radiationpresentation.pdf",
-    demo: "n/a",
+    //demo: "n/a",
     year: "2026"
   },
   {
