@@ -27,7 +27,7 @@ const PROJECTS = [
   },
   {
     name: "Honeywell Aerospace Radiation Effects Internship",
-    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design of test plans for semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects. I have put together some slides showing how radiation affects electronic devices; the PDF will be downloaded when you click the link button.",
+    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design of test plans for semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects. I have put together some slides showing how radiation affects electronic devices; <i>the PDF will be downloaded when you click the link button</i>.",
     tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
     link: "https://github.com/mjkim21-dev/portfolio/raw/main/content/raditationpresentation.pdf",
     //demo: "n/a",
@@ -35,7 +35,7 @@ const PROJECTS = [
   },
   {
     name: "Junior Embedded Systems Project",
-    description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device for EGR 314, which is a class at ASU. Designed the data flow around custom services and characteristics to support reliable control and feedback in a compact system..",
+    description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device for EGR 314, which is a class at ASU. Designed the data flow around custom services and characteristics to support reliable control and feedback in a compact system.",
     tech: ["KiCad", "MicroPython", "BLE GATT", "Power Supply", "Multimeter", "Soldering Station"],
     link: "https://mjkim21-dev.github.io/mjkim21.github.io/",
     //demo: "n/a",
