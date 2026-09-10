@@ -19,16 +19,18 @@
 const PROJECTS = [
   {
     name: "Honeywell Aerospace Radiation Effects Internship",
-    description: "A short, plain-language description of what this project does and the problem it solves. Focus on the outcome, not just the tech.",
-    tech: ["React", "Node.js", "PostgreSQL"],
-    link: "https://github.com/yourusername/project-one",
-    demo: "https://project-one-demo.vercel.app",
+    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design and testing of semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects.
+",
+    tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
+    link: "n/a",
+    demo: "n/a",
     year: "2026"
   },
   {
     name: "Nanoelectronics and Metrology Lab for Celano Lab at ASU",
-    description: "Another project. This one might be a CLI tool, a script, or a backend service — describe it in one or two sentences.",
-    tech: ["Python", "Docker"],
+    description: "As a member of a nanoelectronics research lab, I support day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination while also contributing to research involving image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.
+",
+    tech: ["Python", "ImageJ/Fiji", "Cursor", "NanoScope Analysis"],
     link: "https://github.com/yourusername/project-two",
     demo: "",
     year: "2025-Now"
@@ -37,8 +39,8 @@ const PROJECTS = [
     name: "WORKING: Senior Design Project",
     description: "A third example project. Delete or duplicate these objects to fit however many projects you actually have.",
     tech: ["TypeScript", "Next.js", "Tailwind"],
-    link: "https://github.com/yourusername/project-three",
-    demo: "",
+    link: "n/a",
+    demo: "n/a",
     year: "2026-Now"
   }
 ];
