@@ -33,12 +33,12 @@ const PROJECTS = [
     demo: "",
     year: "2025-Now"
   },
-  {
-    name: "WORKING: Senior Design Project",
-    description: "A third example project. Delete or duplicate these objects to fit however many projects you actually have.",
-    tech: ["TypeScript", "Next.js", "Tailwind"],
-    link: "n/a",
-    demo: "n/a",
-    year: "2026-Now"
-  }
+//  {
+    //name: "WORKING: Senior Design Project",
+   // description: "A third example project. Delete or duplicate these objects to fit however many projects you actually have.",
+   // tech: ["TypeScript", "Next.js", "Tailwind"],
+   // link: "n/a",
+  //  demo: "n/a",
+   // year: "2026-Now"
+//  }
 ];
