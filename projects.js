@@ -18,20 +18,20 @@
 
 const PROJECTS = [
   {
-    name: "Honeywell Aerospace Radiation Effects Internship",
-    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design and testing of semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects.",
-    tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
-    link: "https://github.com/mjkim21-dev/portfolio/raw/main/content/raditationpresentation.pdf",
-    //demo: "n/a",
-    year: "2026"
-  },
-  {
     name: "Nanoelectronics and Metrology Lab for Celano Lab at ASU",
     description: "As a member of the Celano lab at ASU, I have been supporting day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination while also contributing to research involving image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.",
     tech: ["Python", "ImageJ/Fiji", "Cursor", "NanoScope Analysis"],
     link: "https://labs.engineering.asu.edu/celano/",
     //demo: "",
     year: "2025-Now"
+  },
+  {
+    name: "Honeywell Aerospace Radiation Effects Internship",
+    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design and testing of semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects.",
+    tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
+    link: "https://github.com/mjkim21-dev/portfolio/raw/main/content/raditationpresentation.pdf",
+    //demo: "n/a",
+    year: "2026"
   },
 //  {
     //name: "WORKING: Senior Design Project",
