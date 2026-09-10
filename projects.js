@@ -16,7 +16,7 @@
   ------------------------------------------------------------
 */
 
-const Experiences = [
+const Projects = [
   {
     name: "Honeywell Aerospace Radiation Effects Internship",
     description: "A short, plain-language description of what this project does and the problem it solves. Focus on the outcome, not just the tech.",
