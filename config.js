@@ -23,5 +23,5 @@ const CONFIG = {
 
   // Optional: currently open to work / freelance, shown as a small status line.
   // Leave as "" to hide.
-  status: "Open to new opportunities"
+  status: "Open to all opportunities"
 };
