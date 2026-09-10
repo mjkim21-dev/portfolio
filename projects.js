@@ -19,7 +19,7 @@
 const PROJECTS = [
   {
     name: "Nanoelectronics and Metrology Lab for Celano Lab at ASU",
-    description: "As a member of the Celano lab at ASU, I have been supporting day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination while also contributing to research involving image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.",
+    description: "For this lab, I have been working for Professor Umberto Celano. I have been supporting day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination while also contributing to research involving image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.",
     tech: ["Python", "ImageJ/Fiji", "Cursor", "NanoScope Analysis"],
     link: "https://labs.engineering.asu.edu/celano/",
     //demo: "",
