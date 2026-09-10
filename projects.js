@@ -21,8 +21,8 @@ const PROJECTS = [
     name: "Honeywell Aerospace Radiation Effects Internship",
     description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design and testing of semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects.",
     tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
-    link: "n/a",
-    demo: "n/a",
+    link: "Although most of the stuff is Honeywell Aero. Proprietary information, I was able to create a slide deck for my lab showing what I learned. The PDF of the slides can be found [here](). ",
+    //demo: "n/a",
     year: "2026"
   },
   {
