@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function renderHero() {
   document.getElementById('hero-name').textContent = CONFIG.name;
   document.getElementById('hero-tagline').textContent = CONFIG.tagline;
-  document.title = `${CONFIG.name} — ${CONFIG.role}`;
+  document.title = `${CONFIG.name} — ${CONFIG.degree}`;
 
   const statusEl = document.getElementById('hero-status');
   if (CONFIG.status) {
