@@ -44,7 +44,7 @@ function renderProjects() {
       <div class="project-meta">
         ${p.tech && p.tech.length ? `<div class="tech-tags">${p.tech.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
         <div class="project-links">
-          ${p.link ? `<a href="${escapeAttr(p.link)}" target="_blank" rel="noopener">code</a>` : ''}
+          ${p.link ? `<a href="${escapeAttr(p.link)}" target="_blank" rel="noopener">link</a>` : ''}
           ${p.demo ? `<a href="${escapeAttr(p.demo)}" target="_blank" rel="noopener">demo</a>` : ''}
         </div>
       </div>
