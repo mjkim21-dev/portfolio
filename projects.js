@@ -16,29 +16,29 @@
   ------------------------------------------------------------
 */
 
-const PROJECTS = [
+const Experiences = [
   {
-    name: "project-one",
+    name: "Honeywell Aerospace Radiation Effects Internship",
     description: "A short, plain-language description of what this project does and the problem it solves. Focus on the outcome, not just the tech.",
     tech: ["React", "Node.js", "PostgreSQL"],
     link: "https://github.com/yourusername/project-one",
     demo: "https://project-one-demo.vercel.app",
-    year: "2025"
+    year: "2026"
   },
   {
-    name: "project-two",
+    name: "Nanoelectronics and Metrology Lab for Celano Lab at ASU",
     description: "Another project. This one might be a CLI tool, a script, or a backend service — describe it in one or two sentences.",
     tech: ["Python", "Docker"],
     link: "https://github.com/yourusername/project-two",
     demo: "",
-    year: "2024"
+    year: "2025-Now"
   },
   {
-    name: "project-three",
+    name: "WORKING: Senior Design Project",
     description: "A third example project. Delete or duplicate these objects to fit however many projects you actually have.",
     tech: ["TypeScript", "Next.js", "Tailwind"],
     link: "https://github.com/yourusername/project-three",
     demo: "",
-    year: "2024"
+    year: "2026-Now"
   }
 ];
