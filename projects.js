@@ -33,12 +33,12 @@ const PROJECTS = [
     //demo: "n/a",
     year: "2026"
   },
-//  {
-    //name: "WORKING: Senior Design Project",
-   // description: "A third example project. Delete or duplicate these objects to fit however many projects you actually have.",
-   // tech: ["TypeScript", "Next.js", "Tailwind"],
-   // link: "n/a",
-  //  demo: "n/a",
-   // year: "2026-Now"
-//  }
+  {
+    name: "Junior Embedded Systems Project",
+    description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device. Designed the data flow around custom services and characteristics to support reliable control and feedback in a compact system..",
+    tech: ["KiCad", "MicroPython", "BLE GATT", "Power Supply", "Multimeter", "Soldering Station"],
+    link: "https://mjkim21-dev.github.io/mjkim21.github.io/",
+    //demo: "n/a",
+    year: "2025"
+  }
 ];
