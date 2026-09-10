@@ -35,7 +35,7 @@ const PROJECTS = [
   },
   {
     name: "Junior Embedded Systems Project",
-    description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device. Designed the data flow around custom services and characteristics to support reliable control and feedback in a compact system..",
+    description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device for EGR 314, which is a class at ASU. Designed the data flow around custom services and characteristics to support reliable control and feedback in a compact system..",
     tech: ["KiCad", "MicroPython", "BLE GATT", "Power Supply", "Multimeter", "Soldering Station"],
     link: "https://mjkim21-dev.github.io/mjkim21.github.io/",
     //demo: "n/a",
