@@ -41,10 +41,11 @@ function renderProjects() {
         ${p.year ? `<span class="project-year">${escapeHtml(p.year)}</span>` : ''}
       </div>
       <p class="project-desc">${escapeHtml(p.description)}</p>
+      ${p.link && p.link.endsWith('.pdf') ? `<div class="pdf-viewer"><iframe src="${escapeAttr(p.link)}" style="width:100%; height:600px; border:none;"></iframe></div>` : ''}
       <div class="project-meta">
         ${p.tech && p.tech.length ? `<div class="tech-tags">${p.tech.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
         <div class="project-links">
-          ${p.link ? `<a href="${escapeAttr(p.link)}" target="_blank" rel="noopener">link</a>` : ''}
+          ${p.link ? `<a href="${escapeAttr(p.link)}" target="_blank" rel="noopener">${p.link.endsWith('.pdf') ? 'view pdf' : 'link'}</a>` : ''}
           ${p.demo ? `<a href="${escapeAttr(p.demo)}" target="_blank" rel="noopener">demo</a>` : ''}
         </div>
       </div>
