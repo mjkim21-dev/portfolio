@@ -27,7 +27,7 @@ const PROJECTS = [
   },
   {
     name: "Honeywell Aerospace Radiation Effects Internship",
-    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design of test plans for semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects. I have put together some slides showing how radiation affects electronic devices; <i>For more info, the PDF will be downloaded when you click the link button</i>.",
+    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design of test plans for semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects. I have put together some slides showing how radiation affects electronic devices. *For more info, the PDF will be downloaded when you click the link button.*",
     tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
     link: "https://github.com/mjkim21-dev/portfolio/raw/main/content/raditationpresentation.pdf",
     //demo: "n/a",
@@ -35,7 +35,7 @@ const PROJECTS = [
   },
   {
     name: "Junior Embedded Systems Project",
-    description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device for EGR 314, which is a class at ASU. Designed the data flow around custom services and characteristics to support reliable control and feedback in a compact system. <i>For more info, the website is attached to the link button</i>",
+    description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device for EGR 314, which is a class at ASU. Designed the data flow around custom services and characteristics to support reliable control and feedback in a compact system. *For more info, the website is attached to the link button.*",
     tech: ["KiCad", "MicroPython", "BLE GATT", "Power Supply", "Multimeter", "Soldering Station"],
     link: "https://mjkim21-dev.github.io/mjkim21.github.io/",
     //demo: "n/a",
@@ -43,7 +43,7 @@ const PROJECTS = [
   },
   {
     name: "GaN Power Module for FURI ASU",
-    description: "Fulton Undergraduate Research Initiative (FURI) was an opportunity for me to get research experience. I joined Professor Zhicheng Guo's Power Electronics lab and had the opportunity to research GaN power modules for medium/high voltage applications with PhD researcher Jie Deng. <i>For more info, the poster is attached to the link button</i>.",
+    description: "Fulton Undergraduate Research Initiative (FURI) was an opportunity for me to get research experience. I joined Professor Zhicheng Guo's Power Electronics lab and had the opportunity to research GaN power modules for medium/high voltage applications with PhD researcher Jie Deng. *For more info, the poster is attached to the link button.*",
     tech: ["Altium", "Oscilloscope", "Matlab/Simulink"],
     link: "https://forge.engineering.asu.edu/furiproject/intelligent-1300-v-60a-double-side-cooling-gan-power-module-for-next-generation-ev-powertrains/",
     //demo: "n/a",
