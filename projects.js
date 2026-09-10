@@ -19,8 +19,7 @@
 const PROJECTS = [
   {
     name: "Honeywell Aerospace Radiation Effects Internship",
-    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design and testing of semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects.
-",
+    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design and testing of semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects.",
     tech: ["KiCAD", "Microsoft Office Suite", "Creme96", "OMERE"],
     link: "n/a",
     demo: "n/a",
@@ -28,8 +27,7 @@ const PROJECTS = [
   },
   {
     name: "Nanoelectronics and Metrology Lab for Celano Lab at ASU",
-    description: "As a member of a nanoelectronics research lab, I support day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination while also contributing to research involving image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.
-",
+    description: "As a member of a nanoelectronics research lab, I support day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination while also contributing to research involving image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.",
     tech: ["Python", "ImageJ/Fiji", "Cursor", "NanoScope Analysis"],
     link: "https://github.com/yourusername/project-two",
     demo: "",
