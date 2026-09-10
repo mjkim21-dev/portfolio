@@ -17,7 +17,7 @@ const CONFIG = {
   // Contact / social links. Leave a value as "" to hide that row.
   links: {
     email: "michaeljikim2@gmail.com",
-    github: "https://github.com/yourusername",
+    github: "https://mjkim21-dev.github.io/portfolio/",
     linkedin: "https://www.linkedin.com/in/michaeljkim2/",
   },
 
