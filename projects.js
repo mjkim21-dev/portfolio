@@ -39,6 +39,6 @@ const PROJECTS = [
     tech: ["KiCad", "MicroPython", "BLE GATT", "Power Supply", "Multimeter", "Soldering Station"],
     link: "https://mjkim21-dev.github.io/mjkim21.github.io/",
     //demo: "n/a",
-    year: "2025"
+    year: "2026"
   }
 ];
