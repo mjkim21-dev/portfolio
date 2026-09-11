@@ -27,7 +27,7 @@ const PROJECTS = [
   },
   {
     name: "Honeywell Aerospace Radiation Effects Internship",
-    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design of test plans for semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects. I have put together some slides showing how radiation affects electronic devices. *For more info, the PDF will be downloaded when you click the link button.*",
+    description: "This internship gave me experience in Radiation Effects from a Systems Engineering perspective, with responsibilities spanning the design of test plans and test boards for semiconductor devices for TID, FXR, and neutron-induced displacement damage (nDD) effects. I was also able to run some simulations of Linear Energy Transfer (LET). Another project I got to work on was about sensorless motor control; the task was to research and design a dynamics model using MATLAB. I was more on the research side, using breadboards to test sensorless control algorithms such as Back EMF Zero Crossings, and I used a commercial board to test Field Oriented Control (FOC). I have put together some slides showing how radiation affects the PN Junction. *For more info, the PDF will be downloaded when you click the link button.*",
     tech: ["KiCad", "Microsoft Office Suite", "Creme96", "OMERE"],
     link: "https://github.com/mjkim21-dev/portfolio/raw/main/content/raditationpresentation.pdf",
     //demo: "n/a",
