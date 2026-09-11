@@ -12,7 +12,7 @@ const CONFIG = {
   tagline: "Undergraduate Engineering Student at Arizona State University Graduating May 2027",
 
   // Shown in the About section. Can be a few sentences.
-  about: "I’m an Electrical Systems Engineering student passionate about semiconductors and emerging technologies in electronics and power. Through internships, research, and hands-on engineering projects, I’ve developed skills in circuit design, testing, and embedded systems, and am looking to use those skills in any industry.",
+  about: "I’m an Electrical Systems Engineering student passionate about semiconductors and emerging technologies in electronics and power. Through internships, research, and hands-on engineering projects, I’ve developed skills in circuit design, testing, and embedded systems. I am now looking to use those skills in any industry as well as learn new things along the way.",
 
   // Contact / social links. Leave a value as "" to hide that row.
   links: {
