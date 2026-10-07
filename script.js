@@ -69,9 +69,6 @@ function renderContact() {
   if (CONFIG.links.linkedin) {
     rows.push({ label: 'linkedin', value: prettyUrl(CONFIG.links.linkedin), href: CONFIG.links.linkedin });
   }
-  if (CONFIG.links.twitter) {
-    rows.push({ label: 'twitter', value: prettyUrl(CONFIG.links.twitter), href: CONFIG.links.twitter });
-  }
 
   list.innerHTML = rows.map(r => `
     <li>
