@@ -9,7 +9,7 @@
     description - 1-3 sentences about what it does (string)
     tech        - array of tech/tools used, shown as tags
     link        - URL to the code (GitHub repo, etc.) — required
-    demo        - URL to a live demo — optional, leave as "" to hide
+    demo        - URL to a live demo — optional; leave as "" to hide
     year        - e.g. "2025" — optional, leave as "" to hide
 
   Order: projects display in the order listed here, top to bottom.
@@ -22,7 +22,7 @@ const PROJECTS = [
     description: "For this lab, I have been working for Professor Umberto Celano. I support day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination, and I contribute to research on image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.",
     tech: ["Python", "ImageJ/Fiji", "Cursor", "NanoScope Analysis"],
     link: "https://labs.engineering.asu.edu/celano/",
-    //demo: "",
+    demo: "https://mjkim21-dev.github.io/celanolabmetro/",
     year: "Sep 2025 - Present"
   },
   {
