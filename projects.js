@@ -19,7 +19,7 @@
 const PROJECTS = [
   {
     name: "Nanoelectronics and Metrology Lab for Celano Lab at ASU",
-    description: "For this lab, I have been working for Professor Umberto Celano. I have been supporting day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination while also contributing to research involving image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.",
+    description: "For this lab, I have been working for Professor Umberto Celano. I support day-to-day laboratory operations through equipment purchasing, shipping, and facility coordination, and I contribute to research on image segmentation and enhancement. I am exploring Python-based computer vision and AI/physics-informed approaches for processing and analyzing microscopy and metrology data.",
     tech: ["Python", "ImageJ/Fiji", "Cursor", "NanoScope Analysis"],
     link: "https://labs.engineering.asu.edu/celano/",
     //demo: "",
@@ -34,12 +34,20 @@ const PROJECTS = [
     year: "Summer 2026"
   },
   {
-    name: "Junior Embedded Systems Project",
+    name: "Junior Embedded Systems Project pt.2",
     description: "Developed a custom Bluetooth Low Energy GATT protocol to enable structured wireless communication between embedded hardware and a connected client device for EGR 314, which is a class at ASU. Designed the data flow around custom services and characteristics to support reliable control and feedback in a 10-person CAN bus system. *For more info, the website is attached to the link button.*",
     tech: ["KiCad", "MicroPython", "BLE GATT", "Power Supply", "Multimeter", "Soldering Station"],
     link: "https://mjkim21-dev.github.io/mjkim21.github.io/",
     //demo: "n/a",
     year: "Spring 2026"
+  },
+    {
+    name: "Junior Embedded Systems Project pt.1",
+    description: "This was my first ever PCB board. I was part of a 4-person team and responsible for a subsystem consisting of a Speaker and Solenoid valve. The link will take you to a site that provides images and documentation throughout the design process.*",
+    tech: ["KiCad", "MicroPython", "DAC", "Power Supply", "Multimeter", "Soldering Station"],
+    link: "https://mjkim21-dev.github.io/",
+    //demo: "n/a",
+    year: "Fall 2025"
   },
   {
     name: "GaN Power Module for FURI ASU",
