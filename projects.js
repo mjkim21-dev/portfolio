@@ -41,7 +41,7 @@ const PROJECTS = [
     //demo: "n/a",
     year: "Spring 2026"
   },
-    {
+  {
     name: "Junior Embedded Systems Project pt.1",
     description: "This was my first ever PCB board. I was part of a 4-person team and responsible for a subsystem consisting of a Speaker and Solenoid valve. The link will take you to a site that provides images and documentation throughout the design process.*",
     tech: ["KiCad", "MicroPython", "DAC", "Power Supply", "Multimeter", "Soldering Station"],
